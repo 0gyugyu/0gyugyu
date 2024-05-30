@@ -1,4 +1,4 @@
-### <div align=center>👋안녕하세요! 백엔드 웹개발자 김영규 입니다!😁 </div>
+### <div align=center>👋안녕하세요! 소통하는 신입 백엔드 웹개발자 김영규 입니다!😁 </div>
 <br><br>
 <div align=center> 
 - 🧑‍💻 현재 배우고 사용하는 스킬은... <br>
